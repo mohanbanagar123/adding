@@ -1,3 +1,3 @@
 # adding
 this is add numbers in python
-author - mohan 
+author - mohan banagar
